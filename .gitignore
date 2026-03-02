@@ -1,0 +1,10 @@
+dbt_demo/profiles.yml
+*logs/
+dbt_demo/target/
+dbt_demo/data/
+dbt_demo/models/
+dbt_demo/seeds/
+dbt_demo/macros/
+dbt_demo/docs/
+dbt_demo/tests/
+dbt_demo/schemas/
